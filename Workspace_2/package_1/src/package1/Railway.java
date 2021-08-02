@@ -21,7 +21,7 @@ public class Railway {
 	}
 	
 		
-		public static void main(String[] args) {
+		/*public static void main(String[] args) {
 			
 			System.out.println("Yasvantpur Delhi Sarai Rohilla AC Duronto Express (12213)\r\n");
 			System.out.println("-----------------------------------------------");
@@ -39,7 +39,7 @@ public class Railway {
 				transaction.printStatement();
 			}
 
-	}
+	}*/
 }
 
 

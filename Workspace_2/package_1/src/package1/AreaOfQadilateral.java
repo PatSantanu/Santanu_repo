@@ -13,7 +13,7 @@ public class AreaOfQadilateral {
 	}
 	static double areaOfQuadilateral(double a,double b,double h )
 	{
-		return(a+b)* h/2;
+		return((a+b)* h)/2;
 	}
 	
 	public static void main(String[] args)
