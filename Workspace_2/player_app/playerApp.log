@@ -1,0 +1,1601 @@
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:27 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:00:46 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:46 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:00:53 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:53 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:00:54 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:54 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:00:55 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:55 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:00:56 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:00:56 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:56 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:00:59 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:00:59 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:01:00 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:01:00 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:01:00 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:01:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:01:06 INFO  com.app.Main  - 7)Enter Your Choice(1-6)
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:01:47 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:01:58 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:03 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:03 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:04 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:04 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:04 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:05 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:05 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:05 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:05 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:05 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:05 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:05 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:06 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:07 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:07 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:02:58 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:03:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 15:03:08 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 15:03:11 INFO  com.app.Main  - Thanks for using this APPLICATION we will see you soon :)
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 21:56:19 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 21:56:28 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 21:56:28 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 21:56:38 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 21:56:50 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 21:57:02 WARN  com.app.Main  - Invalid Player Id864146987
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 21:57:02 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 21:57:54 WARN  com.app.Main  - Invalid Search Option....Choice should be only number betwwen 1-9 only. Kindly Retry
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 21:57:54 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 21:58:19 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 21:58:24 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 21:58:29 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 21:58:35 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'id' in field list is ambiguous
+[main] 2021-08-17 21:58:35 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 21:58:35 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 22:03:57 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:04:06 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:04:11 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 22:04:17 WARN  com.app.Main  - Invalid Player Id-100
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:04:17 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:04:40 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 22:04:49 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'id' in field list is ambiguous
+[main] 2021-08-17 22:04:49 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:04:49 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 22:40:08 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 22:40:17 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:40:24 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:40:30 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 22:40:35 WARN  com.app.Main  - Invalid Player Id1234
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:40:35 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:42:16 WARN  com.app.Main  - Invalid Search Option....Choice should be only number betwwen 1-9 only. Kindly Retry
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:42:16 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:42:24 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 22:42:30 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'id' in field list is ambiguous
+[main] 2021-08-17 22:42:30 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:42:30 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 22:45:19 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 22:45:36 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:45:43 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 22:45:46 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 22:45:52 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'id' in field list is ambiguous
+[main] 2021-08-17 22:45:52 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 22:45:52 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:15:52 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:15:58 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:16:05 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 23:16:37 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'id' in field list is ambiguous
+[main] 2021-08-17 23:16:37 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:16:37 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:19:17 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:19:27 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:19:29 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 23:19:35 WARN  com.app.Main  - Invalid Player Id-100
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:19:35 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:22:45 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 23:22:52 WARN  com.app.Main  - Invalid Player Id101
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:22:52 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:23:30 WARN  com.app.Main  - Invalid Search Option....Choice should be only number betwwen 1-9 only. Kindly Retry
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:23:30 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:23:40 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:23:54 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:23:59 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:24:02 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 23:24:09 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'id' in field list is ambiguous
+[main] 2021-08-17 23:24:09 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:24:09 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:56:01 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:56:05 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:56:08 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 23:56:14 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'id' in field list is ambiguous
+[main] 2021-08-17 23:56:14 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:56:14 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:58:21 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:58:24 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:58:25 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 23:58:30 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLException: Column 'conact' not found.
+[main] 2021-08-17 23:58:30 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:58:30 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:59:08 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - ================================================
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-17 23:59:28 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:59:31 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-17 23:59:32 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-17 23:59:36 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLException: Column 'teamId' not found.
+[main] 2021-08-17 23:59:36 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-17 23:59:36 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:03:32 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:03:35 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:03:37 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-18 00:03:42 ERROR com.app.dao.impl.PlayerSearchDAOImpl  - java.sql.SQLException: Column 'teamId' not found.
+[main] 2021-08-18 00:03:42 WARN  com.app.Main  - Internal Error Occured Contact Sysadmin
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:03:42 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:04:32 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:04:35 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:04:37 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - Player with id100found successfully....Below is the details
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - Player [id=100, name=Sachin, age=45, gender=M, city=Mumbai, sportsName=Cricket, contact=2154879632, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:04:42 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:09:15 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:09:18 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:09:20 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - Player with id100found successfully....Below is the details
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - Player [id=100, name=Sachin, age=45, gender=M, city=Mumbai, sportsName=Cricket, contact=2154879632, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:09:24 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:17:18 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:24:19 INFO  com.app.Main  - Thanks for using this APPLICATION we will see you soon :)
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:24:38 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:24:41 WARN  com.app.Main  - Invalid choice....Choice should be only number betwwen 1-6 only
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:24:41 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:27:45 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - Under Construction
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - Thanks for using this APPLICATION we will see you soon :)
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:27:50 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 00:50:39 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:50:43 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 00:50:46 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-18 00:50:52 WARN  com.app.Main  - Invalid Player Id-200
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 00:50:52 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 01:58:17 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 01:58:24 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 01:58:26 INFO  com.app.Main  - Enter player id to get player datails
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - Player with id100found successfully....Below is the details
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - Player [id=100, name=Sachin, age=45, gender=M, city=Mumbai, sportsName=Cricket, contact=2154879632, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 01:58:30 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - welcome to player app V1.0
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - ================================================
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - 
+what you wish to do today?
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - 1)Create a Player
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - 2)Update a Player
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - 3)Delete a Player
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - 4)List all Players
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - 5)Search Players with various filters
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - 6)Exit
+[main] 2021-08-18 09:06:23 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 09:06:35 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 09:06:48 INFO  com.app.Main  - Enter the teamName to get the players for that team
+[main] 2021-08-18 09:06:55 WARN  com.app.Main  - No players teamsdfgsg
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 09:06:55 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 09:07:29 INFO  com.app.Main  - Enter the teamName to get the players for that team
+[main] 2021-08-18 09:07:39 WARN  com.app.Main  - Invalid team name :5874
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 09:07:39 INFO  com.app.Main  - Enter Your Choice(1-6)
+[main] 2021-08-18 09:07:56 INFO  com.app.Main  - Enter the teamName to get the players for that team
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - TOtal there are number of6nuber of players playing for the teamINDIAprinting the players
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - Player [id=100, name=Sachin, age=45, gender=M, city=Mumbai, sportsName=Cricket, contact=2154879632, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - Player [id=101, name=MS D, age=35, gender=M, city=Ranchi, sportsName=Cricket, contact=7896852312, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - Player [id=102, name=Neeraj, age=25, gender=M, city=Haryana, sportsName=Athlete, contact=124578965324, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - Player [id=103, name=Dillip, age=45, gender=M, city=Bhubaneswar, sportsName=Hockey, contact=4125639874, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - Player [id=104, name=Raina, age=32, gender=M, city=RajNagar, sportsName=Cricket, contact=1236958741, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - Player [id=105, name=Jadeja , age=31, gender=M, city=Jamnagar , sportsName=Cricket, contact=2356987410, team=Team [id=1, teamName=India]]
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 
+
+Welcome to Player Search Menu...........Search your Players By various Filters from below Menu Option
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 1. By player ID
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 2. By player NAME
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 3. By player AGE 
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 4. By player GENDER
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 5. By player CITY
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 6. By TeamName 
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 7. By SportsName
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 8. By player Contact
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - 9. Go Back To Main Menu
+[main] 2021-08-18 09:08:04 INFO  com.app.Main  - Enter Your Choice(1-6)
